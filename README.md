@@ -16,3 +16,5 @@ Thoughtful breakpoints allow this theme to work well on any viewing screen.
 
 <strong>Child Theme Modification</strong>
 Modifying this theme is discouraged if you do not consider yourself a developer. In certain cases though, it might be necessary to make alterations to the theme. If so, a child theme is provided. Hack it all you like, and you will still be able upgrade Poem when new versions are released.
+
+Demonstration: <a href="http://filthywitch.com">filthywitch.com</a>
