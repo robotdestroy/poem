@@ -1,4 +1,4 @@
-<strong>pome</strong>
+<strong>poem</strong>
 ====
 
 Poem is a WordPress theme from <a href="http://robotdestroythemes.com">robotdestroy</a>. It is minimal with close to no dependancies. Its focus is on speed and readability. There are no options, no images and the comments system has been disabled. It is responsive.
