@@ -1,0 +1,15 @@
+/*
+Theme Name: poem-child
+Theme URI: http://robotdestroythemes.com/
+Author: robotdestroy
+Author URI: http://robotdestroythemes.com/
+Description: A child theme to customize the theme Poem.
+Version: 1.0
+Template: poem
+License: GNU General Public License
+License URI: license.txt
+Tags: responsive, minimal, writing, writer, zero-dependancy
+
+*/
+
+@import url("../poem/style.css");
