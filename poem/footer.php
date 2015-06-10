@@ -68,7 +68,7 @@
       $('.index-close').click(function() {
         event.preventDefault();
         $('.site-footer').css('height', '49px');
-        $('.site-footer').css('overflow', 'none');
+        $('.site-footer').css('overflow', 'hidden');
         $('#main').css('display', 'block');
         $( ".post-navigation-menu" ).css('display', 'block');
         $( ".table-of-contents" ).hide();

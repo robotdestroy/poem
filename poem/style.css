@@ -374,7 +374,7 @@ footer {
 }
 .post-navigation-menu {
 	height: 48px;
-	overflow: none;
+	overflow: hidden;
 }
 .navigation {
 	width: 100%;
